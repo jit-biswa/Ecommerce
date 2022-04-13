@@ -1,0 +1,37 @@
+body{
+	background-color: Lavender !important;
+}
+.navcustome{
+	background-color: green;
+}
+.container{
+	background-color: #ccc;
+}
+.cakecategory{
+	border: 1px solid MediumOrchid;
+	width:19% !important;
+	margin-right: 3%;
+	border-radius: 4%;
+	cursor: pointer;
+}
+.container2{
+	margin-top: 2%;
+}
+.footer{
+	height: 200px;
+	border: 1px solid none ;
+	background-color: #DDA0DD;
+	margin: 4%;
+	width: 90% !important;
+}
+.headerfont{
+	font-size: 18px;
+	font-family: unset;
+	font-weight: 500;
+}
+.about{
+	font-size: 14px;
+}
+img:hover{
+	 transform: scale(1.1);
+}
